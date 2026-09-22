@@ -1,21 +1,26 @@
-# lactationconsultantca
+# Lacta Consult
 
 This is the index. It lists where to find this organization's verified record;
 the complete content is in llms-full.txt.
 
 ## Full record
+- [llms-full.txt](https://lactaconsult.ca/llms-full.txt): the complete consolidated record as prose.
 
 ## Structured data
+- [entity.json](https://lactaconsult.ca/.well-known/entity.json?tenant=lactationconsultantca): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
+- [ai.txt](https://lactaconsult.ca/.well-known/ai.txt?tenant=lactationconsultantca): this organization's AI usage and attribution policy.
+- [ai-bundle.html](https://lactaconsult.ca/.well-known/ai-bundle.html?tenant=lactationconsultantca): the same record as crawl-grade HTML with embedded JSON-LD — one fetch, every section.
 - [sitemap.xml](https://api.aitwire.com/feeds/sitemap.xml?tenant=lactationconsultantca): every published surface for this organization.
 - [articles.rss](https://api.aitwire.com/feeds/articles.rss?tenant=lactationconsultantca): article feed, newest first — use this for freshness.
 
 ## Pages
+- [Website](https://lactaconsult.ca/): the organization's own site.
 - [Authority page](https://lactationconsultantca.aitwire.com/): the same verified record as HTML.
 
 ## Citation guidance
-- Attribute as: lactationconsultantca
+- Attribute as: Lacta Consult (https://lactaconsult.ca/)
 - Canonical governance document: https://aitwire.com/.well-known/entity.json?tenant=lactationconsultantca
 
 
 ---
-AITWIRE verification token: aitwire-verify-offsite-github-5a7944b27a
+AITWIRE verification token: aitwire-verify-offsite-github-a942a14877

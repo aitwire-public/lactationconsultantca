@@ -12,7 +12,6 @@
 - AI policy (ai.txt): https://lactaconsult.ca/.well-known/ai.txt
 - Sitemap: https://api.aitwire.com/feeds/sitemap.xml?tenant=lactationconsultantca
 - Article feed (RSS): https://api.aitwire.com/feeds/articles.rss?tenant=lactationconsultantca
-- AI Profiles directory: https://aitwire.com/profiles
 
 ## Citation guidance
 - Attribute as: Lacta Consult (https://lactaconsult.ca/)
